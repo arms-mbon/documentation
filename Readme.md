@@ -1,1 +1,1 @@
-To hold all ARMS documentation
+To hold all ARMS documentation. Note: as these documents are referred to on various websites, presentations, and within each other, it is important to not move any documents or change the links when a new version is created. 
