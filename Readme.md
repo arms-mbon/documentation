@@ -1,1 +1,1 @@
-To hold all ARMS documentation. Note: as these documents are referred to on various websites, presentations, and within each other, it is important to not move any documents or change the links when a new version is created. 
+To hold all ARMS documentation. Current versions will be in this directory, all prior versions within subdirectories
