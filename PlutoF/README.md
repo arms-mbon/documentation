@@ -1,1 +1,1 @@
-How to use the data management platform PlutoF (https://plutof.ut.ee/#/study/view/81139) for ARMS-MBON data is described in a series of slides provided here. 
+How to use the data management platform PlutoF (https://plutof.ut.ee/#/study/view/81139) for ARMS-MBON data is described in a series of slides provided here. The slides can be found on https://docs.google.com/presentation/d/1H37YfRrRo7JXkeHdmbMheopyUmRMbrxe2AjabcTJFA8/edit#slide=id.g13fd44dfa53_0_321 and a PDF copy has been uploaded here. 
