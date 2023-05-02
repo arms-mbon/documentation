@@ -1,0 +1,9 @@
+Explanation,"Observatory_ARMS_dateIn-dateOut 
+(See ""How to make your IDs"")","Filename of the image that you have saved to PlutoF
+(You do not need to include the suffix of the filename)","Plate number. T=Top, B=bottom, number  = plate number counting from the baseplate upwards. Field for any field or lab images. Voucher for voucher specimens",To add more information to the previous column
+requirement,mandatory,mandatory,mandatory,optional
+Title ,Event-ID,Filename,Plate location,Comments
+example entry,Koster_VH2_Ha_180418_180906,IMG_2343,4T,NA
+example entry,Koster_VH2_Ha_180418_180906,IMG_2344,field,lowering the ARMS unit into place
+example entry,Koster_VH2_Ha_180418_180906,IMG_2345,voucher,massive great starfish!
+example entry,Koster_VH2_Ha_180418_180906,IMG_1234,5B,NA
