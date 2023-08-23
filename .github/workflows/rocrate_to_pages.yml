@@ -1,0 +1,24 @@
+name: RoCrate to GitHub Pages
+on:
+  push:
+    branches:
+      - main  # Set a branch name to trigger deployment
+  pull_request:
+jobs:
+  build-html:
+    runs-on: ubuntu-20.04
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+    steps:
+      # Checkout this repo
+      - uses: actions/checkout@v3 
+      
+      # Build the preview.html file from the rocrate.json
+      - name: Build Preview HTML
+        uses: vliz-be-opsci/rocrate-to-pages@latest
+ 
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./unicornpages 
