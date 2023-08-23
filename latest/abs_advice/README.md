@@ -1,0 +1,2 @@
+Here is a guide to how to manage your ABS permit process. This is valid for the ARM-MBON project while it was funded by ASSEMBLE Plus, that is until the summer of 2022. Thereafter, ARMS-MBON became part of EMO BON, and we now follow the EMO BON ABS process. This is documented in the ARMS-MBON Handbook. <br> <br>
+A good website where futher advice on ABS can be found on the EMBRC website: https://www.embrc.eu/embrc-guides-abs<br>

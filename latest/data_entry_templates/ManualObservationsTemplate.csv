@@ -1,0 +1,7 @@
+Explanation ,"Observatory_ARMS_Ha_dateIn-dateOut (See ""How to make your IDs"")",What is this an observation of? Follow the given examples,Notes,Species info,,From http://www.marinespecies.org/index.php,,,,Which fraction will this organism become part of?
+Requirement,mandatory,mandatory,optional,mandatory,mandatory,mandatory,mandatory,mandatory,mandatory,optional
+Title ,Event-ID,ObservationType,FieldNotes,ScientificName,Taxonomic citation,Aphia-ID,TaxonRank,OccurrenceStatus,IndividualCount,fraction
+example entry ,Koster_VH2_Ha_180418_180906,from the image of plate 4T,top left corner,Cryptosula pallasiana,"Moll, 1803",111343,SPECIES,present,16,sessile
+example entry ,Koster_VH2_Ha_180418_180906,made in the field (manual),NA,Idmidronea atlantica,"Forbes in Johnston, 1847",111752,SPECIES,present,4, unknown
+example entry ,Koster_VH2_Ha_180418_180906,manual inspection of the water that came up with the unit,NA,Escharella immersa,"Fleming, 1828",111484,SPECIES,present,9, motile
+example entry ,Koster_VH2_Ha_180418_180906,manual inspection of plate 5B,NA,Scrupocellaria,"van Beneden, 1845",110866,GENUS,present,12, unknown
