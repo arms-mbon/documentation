@@ -20,10 +20,10 @@
                     "@id": "./standard_operating_procedures/ARMS_MolecularSOPs_v1.0.pdf"
                 },
                 {
-                    "@id": "./standard_operating_procedures/README.md"
+                    "@id": "./standard_operating_procedures/Global_ARMS_protocols.zip"
                 },
                 {
-                    "@id": "/github/workspace/standard_operating_procedures/Global_ARMS_protocols.zip"
+                    "@id": "./standard_operating_procedures/README.md"
                 },
                 {
                     "@id": "./standard_operating_procedures/ARMS_MolecularSOPs_v1.0.docx"
@@ -74,10 +74,10 @@
             "label": "./plutof_guide/",
             "hasPart": [
                 {
-                    "@id": "./plutof_guide/README.md"
+                    "@id": "./plutof_guide/How_to_manage_your_ARMS-MBON_data_and_metadata.pdf"
                 },
                 {
-                    "@id": "/github/workspace/plutof_guide/How_to_manage_your_ARMS-MBON_data_and_metadata.pdf"
+                    "@id": "./plutof_guide/README.md"
                 }
             ]
         },
@@ -259,6 +259,51 @@
             }
         },
         {
+            "@id": "_:MatthiasObst",
+            "@type": "Person",
+            "name": "Matthias Obst",
+            "email": "matthias.obst@marine.gu.se",
+            "identifier": "https://orcid.org/0000-0003-0264-9631",
+            "label": "_:MatthiasObst"
+        },
+        {
+            "@id": "_:KatrinaExter",
+            "@type": "Person",
+            "name": "Katrina Exter",
+            "email": "katrina.exter@vliz.be",
+            "identifier": "https://orcid.org/0000-0002-5911-1536",
+            "label": "_:KatrinaExter"
+        },
+        {
+            "@id": "_:ChristinaPavloudi",
+            "@type": "Person",
+            "name": "Christina Pavloudi",
+            "email": "cpavloud@hcmr.gr",
+            "identifier": "https://orcid.org/0000-0001-5106-6067",
+            "label": "_:ChristinaPavloudi"
+        },
+        {
+            "@id": "_:ARMSProject",
+            "@type": "Project",
+            "name": "ARMS-MBON",
+            "identifier": "https://arms-mbon.eu",
+            "label": "_:ARMSProject"
+        },
+        {
+            "@id": "_:AssemblePlus",
+            "@type": "Project",
+            "name": "ASSEMBLE Plus",
+            "identifier": "https://cordis.europa.eu/project/id/730984",
+            "label": "_:AssemblePlus"
+        },
+        {
+            "@id": "_:VLIZ",
+            "@type": "Organization",
+            "name": "Flanders Marine Institute",
+            "url": "https://www.vliz.be/en",
+            "label": "_:VLIZ"
+        },
+        {
             "@id": "./standard_operating_procedures/ARMS_MolecularSOPs_v1.0.pdf",
             "@type": "File",
             "label": "./standard_operating_procedures/ARMS_MolecularSOPs_v1.0.pdf",
@@ -269,14 +314,14 @@
             "endDate": "2022-12-31"
         },
         {
+            "@id": "./standard_operating_procedures/Global_ARMS_protocols.zip",
+            "@type": "File",
+            "label": "./standard_operating_procedures/Global_ARMS_protocols.zip"
+        },
+        {
             "@id": "./standard_operating_procedures/README.md",
             "@type": "File",
             "label": "./standard_operating_procedures/README.md"
-        },
-        {
-            "@id": "/github/workspace/standard_operating_procedures/Global_ARMS_protocols.zip",
-            "@type": "File",
-            "label": "/github/workspace/standard_operating_procedures/Global_ARMS_protocols.zip"
         },
         {
             "@id": "./standard_operating_procedures/ARMS_MolecularSOPs_v1.0.docx",
@@ -323,14 +368,14 @@
             "label": "./abs_advice/README.md"
         },
         {
+            "@id": "./plutof_guide/How_to_manage_your_ARMS-MBON_data_and_metadata.pdf",
+            "@type": "File",
+            "label": "./plutof_guide/How_to_manage_your_ARMS-MBON_data_and_metadata.pdf"
+        },
+        {
             "@id": "./plutof_guide/README.md",
             "@type": "File",
             "label": "./plutof_guide/README.md"
-        },
-        {
-            "@id": "/github/workspace/plutof_guide/How_to_manage_your_ARMS-MBON_data_and_metadata.pdf",
-            "@type": "File",
-            "label": "/github/workspace/plutof_guide/How_to_manage_your_ARMS-MBON_data_and_metadata.pdf"
         },
         {
             "@id": "./data_entry_templates/ARMS_SampleLabelPrintoutExample_2022-08-01.docx",
@@ -512,45 +557,6 @@
             "@id": "./config.yml",
             "@type": "File",
             "label": "./config.yml"
-        },
-        {
-            "@id": "_:MatthiasObst",
-            "@type": "Person",
-            "name": "Matthias Obst",
-            "email": "matthias.obst@marine.gu.se",
-            "identifier": "https://orcid.org/0000-0003-0264-9631"
-        },
-        {
-            "@id": "_:KatrinaExter",
-            "@type": "Person",
-            "name": "Katrina Exter",
-            "email": "katrina.exter@vliz.be",
-            "identifier": "https://orcid.org/0000-0002-5911-1536"
-        },
-        {
-            "@id": "_:ChristinaPavloudi",
-            "@type": "Person",
-            "name": "Christina Pavloudi",
-            "email": "cpavloud@hcmr.gr",
-            "identifier": "https://orcid.org/0000-0001-5106-6067"
-        },
-        {
-            "@id": "_:ARMSProject",
-            "@type": "Project",
-            "name": "ARMS-MBON",
-            "identifier": "https://arms-mbon.eu"
-        },
-        {
-            "@id": "_:AssemblePlus",
-            "@type": "Project",
-            "name": "ASSEMBLE Plus",
-            "identifier": "https://cordis.europa.eu/project/id/730984"
-        },
-        {
-            "@id": "_:VLIZ",
-            "@type": "Organization",
-            "name": "Flanders Marine Institute",
-            "url": "https://www.vliz.be/en"
         }
     ]
 }
