@@ -16,7 +16,7 @@ Here you can find details about the key outputs of this workflow:
 
 *Dive deeper into PEMA via their [Github page](https://github.com/hariszaf/pema).*
 
-PEMA is the bioinformatic pipeline that ensure the processing of raw DNA sequences from selected ARMS samples. It runs under the workflow step call PEMARunner, and its current implemented version is 2.1.4.
+PEMA is the bioinformatic pipeline that ensure the processing of raw DNA sequences from selected ARMS samples. It runs under the workflow step call PEMARunner, and its current implemented version is 2.1.5.
 
 Before using it, you need to set a few parameters to decide how the pipeline is going to process your samples. This is a **key** step of the workflow, to read more about it go to [this repository](https://github.com/arms-mbon/documentation/tree/main/arms_in_tesseract/PEMA_parameters)
 
