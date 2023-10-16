@@ -19,9 +19,9 @@ Always remember to have matching versions between the parameter file and PEMA it
 
 **LINKS**
 
-The parameter file can be downloaded from the PEMA’s GitHub repository [here](https://github.com/hariszaf/pema/blob/master/analysis_directory/parameters.tsv)
+The parameter file (v.2.1.5) can be downloaded from the PEMA’s GitHub repository [here](https://github.com/hariszaf/pema/blob/master/pema_docker_image/sanity_check/COI/parameters.tsv).
 
-There is a new version of this file (PEMA 2.1.5), that is not yet incorporated into the workflow, and can be found [here](https://github.com/hariszaf/pema/blob/master/pema_docker_image/sanity_check/COI/parameters.tsv)
+The previous version of the parameter file that was used in earlier stages of the ARMS project can be found [here](https://github.com/hariszaf/pema/blob/master/analysis_directory/parameters.tsv).
 
 Additional information on the parameters can be found in the [PEMA article](https://doi.org/10.1093/gigascience/giaa150)
 
