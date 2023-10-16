@@ -18,7 +18,7 @@ Here you can find details about the key outputs of this workflow:
 
 PEMA is the bioinformatic pipeline that ensure the processing of raw DNA sequences from selected ARMS samples. It runs under the workflow step call PEMARunner, and its current implemented version is 2.1.5.
 
-Before using it, you need to set a few parameters to decide how the pipeline is going to process your samples. This is a **key** step of the workflow, to read more about it go to [this repository](https://github.com/arms-mbon/documentation/tree/main/arms_in_tesseract/PEMA_parameters)
+Before using it, you need to set a few parameters to decide how the pipeline is going to process your samples. This is a **key** step of the workflow, to read more about it go to [this repository](https://github.com/arms-mbon/documentation/tree/main/arms_in_tesseract/PEMA_parameters).
 
 On Tesseract, all PEMA-related outputs (i.e., intermediate files, final output, checkpoint files, and per-analysis parameters) are grouped in distinct subfolders per major steps. In the last subfolder, i.e., subfolder 8, the results are further split into folders per sample.
 
@@ -43,7 +43,7 @@ Only if the [SWARM algorithm](https://github.com/torognes/swarm) is selected in 
 
 ### *2. ASVs inference/OTUs clustering.*
 
-PEMA supports both OTU clustering (thanks to VSEARCH and [CROP](https://github.com/tingchenlab/CROP) algorithms) and ASV inference (via SWARM) for all four marker genes. Make your method choice clear in the parameters file. 
+PEMA supports both OTU clustering (via the VSEARCH algorithm) and ASV inference (via SWARM) for all four marker genes. Make your method choice clear in the parameters file. 
 
 Then, when [Swarm](https://github.com/torognes/swarm) is selected, the chimaeras are removed. 
 
