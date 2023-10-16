@@ -23,5 +23,5 @@ The parameter file (v.2.1.5) can be downloaded from the PEMA’s GitHub reposito
 
 The previous version of the parameter file that was used in earlier stages of the ARMS project can be found [here](https://github.com/hariszaf/pema/blob/master/analysis_directory/parameters.tsv).
 
-Additional information on the parameters can be found in the [PEMA article](https://doi.org/10.1093/gigascience/giaa150)
+Additional information on the parameters can be found in the [PEMA article](https://academic.oup.com/gigascience/article/9/3/giaa022/5803335).
 
