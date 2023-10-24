@@ -146,10 +146,23 @@
             "downloadURL": "https://data.arms-mbon.org/documentation/latest/#./arms_in_tesseract/"
         },
         {
+            "@id": "./armsmbon_handbook/old/",
+            "@type": "Dataset",
+            "label": "./armsmbon_handbook/old/",
+            "hasPart": [
+                {
+                    "@id": "./armsmbon_handbook/old/README.md"
+                }
+            ]
+        },
+        {
             "@id": "./armsmbon_handbook/",
             "@type": "Dataset",
             "label": "./armsmbon_handbook/",
             "hasPart": [
+                {
+                    "@id": "./armsmbon_handbook/old/"
+                },
                 {
                     "@id": "./armsmbon_handbook/ARMS_Handbook_v3.1.pdf"
                 },
@@ -483,6 +496,11 @@
             "@id": "./arms_in_tesseract/README.md",
             "@type": "File",
             "label": "./arms_in_tesseract/README.md"
+        },
+        {
+            "@id": "./armsmbon_handbook/old/README.md",
+            "@type": "File",
+            "label": "./armsmbon_handbook/old/README.md"
         },
         {
             "@id": "./armsmbon_handbook/ARMS_Handbook_v3.1.pdf",
