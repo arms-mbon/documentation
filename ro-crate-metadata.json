@@ -182,7 +182,13 @@
                     "@id": "./armsmbon_handbook/old/"
                 },
                 {
+                    "@id": "./armsmbon_handbook/EMO_BON_metadata_instructions.pdf"
+                },
+                {
                     "@id": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v1.pdf"
+                },
+                {
+                    "@id": "./armsmbon_handbook/EMO_BON_metadata_instructions.docx"
                 },
                 {
                     "@id": "./armsmbon_handbook/README.md"
@@ -533,9 +539,19 @@
             "label": "./armsmbon_handbook/old/ARMS_Handbook_v3.0.docx"
         },
         {
+            "@id": "./armsmbon_handbook/EMO_BON_metadata_instructions.pdf",
+            "@type": "File",
+            "label": "./armsmbon_handbook/EMO_BON_metadata_instructions.pdf"
+        },
+        {
             "@id": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v1.pdf",
             "@type": "File",
             "label": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v1.pdf"
+        },
+        {
+            "@id": "./armsmbon_handbook/EMO_BON_metadata_instructions.docx",
+            "@type": "File",
+            "label": "./armsmbon_handbook/EMO_BON_metadata_instructions.docx"
         },
         {
             "@id": "./armsmbon_handbook/README.md",
