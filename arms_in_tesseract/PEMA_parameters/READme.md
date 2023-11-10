@@ -9,7 +9,7 @@ Depending on the marker gene used, specific algorithms and other parameters will
 
 NB. It is known that the choice of parameters affects the output of each analysis; therefore, it is expected that different user choices might distort the derived outputs. For this reason, each parameter file that is used has to be kept and well identified (date, gene type, chosen algorithm) for comparability and reproducibility.
 
-To see with parameter files have been previously used on ARMS data, go to: LINK TO DETAILED FILE
+To see with parameter files have been previously used on ARMS data, go to: [this GitHub page](https://github.com/arms-mbon/analysis_release_001/tree/main/parameter_files)
 
 **IMPORTANT**
 
