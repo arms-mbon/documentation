@@ -2,7 +2,7 @@
 
 For post-sequencing ARMS data processing, we use the pipeline PEMA (Pipeline for Environmental Metabarcoding Analysis), which has now been integrated in the LifeWatch ERIC IJI workflow on the Tesseract platform: [Access the workflow here](https://tesseract.lifewatch.dev/arms/workflow-information)
 
-For operational details on executing a workflow and getting the outputs, refer to the tutorial offered by LifeWatch ERIC following [this link](https://training.lifewatch.eu/services-tutorials/resources/?category=17).
+For operational details on executing a workflow and getting the outputs, refer to the tutorial offered by LifeWatch ERIC following [this link](https://training.lifewatch.eu/user-manuals-and-tutorials/resources/?category=17).
 
 Upon initiating the workflow on Tesseract, selected sequences and accompanying metadata undergo steps to transform raw genetic data into taxonomic categorizations and screenings for invasive species. 
 
