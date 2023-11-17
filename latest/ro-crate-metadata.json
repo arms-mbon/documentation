@@ -54,6 +54,9 @@
                     "@id": "./armsmbon_handbook/old/"
                 },
                 {
+                    "@id": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v2.pdf"
+                },
+                {
                     "@id": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v1.pdf"
                 },
                 {
@@ -67,6 +70,9 @@
                 },
                 {
                     "@id": "./armsmbon_handbook/EMO_BON_metadata_instructions.pdf"
+                },
+                {
+                    "@id": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v2.docx"
                 }
             ],
             "description": "The Handbook for the ARMS-MBON project (including protocols)",
@@ -374,6 +380,11 @@
             "label": "./armsmbon_handbook/old/ARMS_Handbook_v3.0.docx"
         },
         {
+            "@id": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v2.pdf",
+            "@type": "File",
+            "label": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v2.pdf"
+        },
+        {
             "@id": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v1.pdf",
             "@type": "File",
             "label": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v1.pdf"
@@ -403,6 +414,11 @@
             "@id": "./armsmbon_handbook/EMO_BON_metadata_instructions.pdf",
             "@type": "File",
             "label": "./armsmbon_handbook/EMO_BON_metadata_instructions.pdf"
+        },
+        {
+            "@id": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v2.docx",
+            "@type": "File",
+            "label": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v2.docx"
         },
         {
             "@id": "./plutof_guide/How_to_manage_your_ARMS-MBON_data_and_metadata.pdf",
