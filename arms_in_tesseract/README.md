@@ -56,6 +56,8 @@ Alignment-based taxonomy assignment is then performed, with different algorithms
 
 The output of this step can be found in “final_table.tsv” as well as in the files 7 and 8 from the zip file containing all PEMA outputs.
 
+Important Information for PEMA v.2.1.4 Users: In this version of PEMA, for COI gene sequences, the taxonomic classification in these final_table and Extended_finalTable stops at the genus level. The species-level classification is not included in the Extended Final Tables. To obtain species-level classification for COI gene sequences, users should refer to the "tax_assignments" files. These files include detailed classifications beyond the genus level for each ASV provided in the Extended Final Tables.
+
 ### *4. In depth biodiversity analysis*
 
 The last step of PEMA is biodiversity analysis using [phyloseq](http://joey711.github.io/phyloseq/index.html), an R package able to perform downstream ecological analysis on the taxonomically assigned OTUs or ASVs (α- and β-diversity analysis, taxonomic composition, statistical comparisons, and calculation of correlations between samples).
