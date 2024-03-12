@@ -6,6 +6,10 @@ For operational details on executing a workflow and getting the outputs, refer t
 
 Upon initiating the workflow on Tesseract, selected sequences and accompanying metadata undergo steps to transform raw genetic data into taxonomic categorizations and screenings for invasive species. 
 
+*Important information for the selection of sequences*
+For some samples, Field/Area replicates and Sample/Technical replicates are available. You can find the replicate IDs for each MaterialSampleID in [replicates_list.csv](https://github.com/arms-mbon/documentation/blob/main/arms_in_tesseract/replicates_list.csv). Field/Area replicates are used when ARMS units are about about 10m or less apart (in the 3 dimensions) and are deployed and retrieved within a few days of each other. These ARMS units have different names (e.g. VH1 and VH2). Sample/technical replicates were used for some material samples with poor results from the first run on the sequencing, and so new sequencing was done on stored material (this information can also be seen in the column SequencingRunRepeat in the table where you select input sequences before running a workflow).
+
+
 Here you can find details about the key outputs of this workflow:
 
 - **PEMA**: processing of raw DNA sequences
