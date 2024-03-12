@@ -206,6 +206,9 @@
                     "@id": "./arms_in_tesseract/PEMA_parameters/"
                 },
                 {
+                    "@id": "./arms_in_tesseract/replicates_list.csv"
+                },
+                {
                     "@id": "./arms_in_tesseract/README.md"
                 }
             ],
@@ -595,6 +598,11 @@
             "@id": "./arms_in_tesseract/PEMA_parameters/READme.md",
             "@type": "File",
             "label": "./arms_in_tesseract/PEMA_parameters/READme.md"
+        },
+        {
+            "@id": "./arms_in_tesseract/replicates_list.csv",
+            "@type": "File",
+            "label": "./arms_in_tesseract/replicates_list.csv"
         },
         {
             "@id": "./arms_in_tesseract/README.md",
