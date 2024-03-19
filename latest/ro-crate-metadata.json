@@ -243,6 +243,9 @@
                 },
                 {
                     "@id": "./config.yml"
+                },
+                {
+                    "@id": "/github/workspace/ARMS-MBON_data_management.pdf"
                 }
             ],
             "license": "https://creativecommons.org/licenses/by/4.0/",
@@ -613,6 +616,11 @@
             "@id": "./config.yml",
             "@type": "File",
             "label": "./config.yml"
+        },
+        {
+            "@id": "/github/workspace/ARMS-MBON_data_management.pdf",
+            "@type": "File",
+            "label": "/github/workspace/ARMS-MBON_data_management.pdf"
         }
     ]
 }
