@@ -242,10 +242,10 @@
                     "@id": "./arms_in_tesseract/"
                 },
                 {
-                    "@id": "./config.yml"
+                    "@id": "./ARMS-MBON_data_management.pdf"
                 },
                 {
-                    "@id": "/github/workspace/ARMS-MBON_data_management.pdf"
+                    "@id": "./config.yml"
                 }
             ],
             "license": "https://creativecommons.org/licenses/by/4.0/",
@@ -613,14 +613,14 @@
             "label": "./arms_in_tesseract/README.md"
         },
         {
+            "@id": "./ARMS-MBON_data_management.pdf",
+            "@type": "File",
+            "label": "./ARMS-MBON_data_management.pdf"
+        },
+        {
             "@id": "./config.yml",
             "@type": "File",
             "label": "./config.yml"
-        },
-        {
-            "@id": "/github/workspace/ARMS-MBON_data_management.pdf",
-            "@type": "File",
-            "label": "/github/workspace/ARMS-MBON_data_management.pdf"
         }
     ]
 }
