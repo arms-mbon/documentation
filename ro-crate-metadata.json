@@ -17,38 +17,51 @@
             "label": "./data_entry_templates/",
             "hasPart": [
                 {
-                    "@id": "./data_entry_templates/ARMS_SampleLabelPrintoutExample_2021-10-19.docx"
-                },
-                {
-                    "@id": "./data_entry_templates/README.md"
-                },
-                {
-                    "@id": "./data_entry_templates/ManualObservationsTemplate.csv"
+                    "@id": "./data_entry_templates/CreatingARMSIDs.xlsx"
                 },
                 {
                     "@id": "./data_entry_templates/ARMS_MaterialTransferAgreement.docx"
                 },
                 {
+                    "@id": "./data_entry_templates/README.md"
+                },
+                {
+                    "@id": "./data_entry_templates/ARMS_SampleLabelPrintoutExample_2021-10-19.docx"
+                },
+                {
+                    "@id": "./data_entry_templates/ImagesDescriptionTemplate.csv"
+                },
+                {
                     "@id": "./data_entry_templates/ARMS_PlateLabelPrintoutExample.docx"
-                },
-                {
-                    "@id": "./data_entry_templates/CreatingARMSIDs.xlsx"
-                },
-                {
-                    "@id": "./data_entry_templates/ARMS_MaterialTransferAgreement_2022-08-01.docx"
-                },
-                {
-                    "@id": "./data_entry_templates/ARMS_SampleLabelPrintoutExample_EMOBON_2023.docx"
                 },
                 {
                     "@id": "./data_entry_templates/ARMS_SampleLabelPrintoutExample_2022-08-01.docx"
                 },
                 {
-                    "@id": "./data_entry_templates/ImagesDescriptionTemplate.csv"
+                    "@id": "./data_entry_templates/ARMS_SampleLabelPrintoutExample_EMOBON_2023.docx"
+                },
+                {
+                    "@id": "./data_entry_templates/ARMS_MaterialTransferAgreement_2022-08-01.docx"
+                },
+                {
+                    "@id": "./data_entry_templates/ManualObservationsTemplate.csv"
                 }
             ],
             "description": "Template spreadsheets for different types of ARMS-MBON data entry activities",
             "downloadURL": "https://data.arms-mbon.org/documentation/latest/#./data_entry_templates/"
+        },
+        {
+            "@id": "./plutof_guide/",
+            "@type": "Dataset",
+            "label": "./plutof_guide/",
+            "hasPart": [
+                {
+                    "@id": "./plutof_guide/How_to_manage_your_ARMS-MBON_data_and_metadata.pdf"
+                },
+                {
+                    "@id": "./plutof_guide/README.md"
+                }
+            ]
         },
         {
             "@id": "./dmp/",
@@ -74,31 +87,31 @@
             "label": "./armsmbon_handbook/old/",
             "hasPart": [
                 {
-                    "@id": "./armsmbon_handbook/old/README.md"
-                },
-                {
                     "@id": "./armsmbon_handbook/old/ARMS_Handbook_v3.1.pdf"
-                },
-                {
-                    "@id": "./armsmbon_handbook/old/ARMS_Handbook_v2.0.pdf"
-                },
-                {
-                    "@id": "./armsmbon_handbook/old/ARMS_Handbook_v3.0.pdf"
                 },
                 {
                     "@id": "./armsmbon_handbook/old/ARMS_Handbook_v1.docx"
                 },
                 {
-                    "@id": "./armsmbon_handbook/old/ARMS_Handbook_v1.pdf"
+                    "@id": "./armsmbon_handbook/old/ARMS_Handbook_v3.0.pdf"
                 },
                 {
-                    "@id": "./armsmbon_handbook/old/ARMS_Handbook_v3.1.docx"
+                    "@id": "./armsmbon_handbook/old/README.md"
                 },
                 {
                     "@id": "./armsmbon_handbook/old/ARMS_Handbook_v2.0.docx"
                 },
                 {
                     "@id": "./armsmbon_handbook/old/ARMS_Handbook_v3.0.docx"
+                },
+                {
+                    "@id": "./armsmbon_handbook/old/ARMS_Handbook_v2.0.pdf"
+                },
+                {
+                    "@id": "./armsmbon_handbook/old/ARMS_Handbook_v3.1.docx"
+                },
+                {
+                    "@id": "./armsmbon_handbook/old/ARMS_Handbook_v1.pdf"
                 }
             ]
         },
@@ -111,84 +124,35 @@
                     "@id": "./armsmbon_handbook/old/"
                 },
                 {
-                    "@id": "./armsmbon_handbook/README.md"
-                },
-                {
-                    "@id": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v2.docx"
-                },
-                {
-                    "@id": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v1.pdf"
-                },
-                {
-                    "@id": "./armsmbon_handbook/EMO_BON_metadata_instructions.pdf"
+                    "@id": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v3.pdf.pdf"
                 },
                 {
                     "@id": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v1.docx"
                 },
                 {
-                    "@id": "./armsmbon_handbook/EMO_BON_metadata_instructions.docx"
+                    "@id": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v2.docx"
                 },
                 {
                     "@id": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v2.pdf"
                 },
                 {
-                    "@id": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v3.pdf.pdf"
+                    "@id": "./armsmbon_handbook/EMO_BON_metadata_instructions.docx"
+                },
+                {
+                    "@id": "./armsmbon_handbook/README.md"
+                },
+                {
+                    "@id": "./armsmbon_handbook/EMO_BON_metadata_instructions.pdf"
+                },
+                {
+                    "@id": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v3.pdf"
+                },
+                {
+                    "@id": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v1.pdf"
                 }
             ],
             "description": "The Handbook for the ARMS-MBON project (including protocols)",
             "downloadURL": "https://data.arms-mbon.org/documentation/latest/#./armsmbon_handbook/"
-        },
-        {
-            "@id": "./standard_operating_procedures/",
-            "@type": "Dataset",
-            "label": "./standard_operating_procedures/",
-            "hasPart": [
-                {
-                    "@id": "./standard_operating_procedures/README.md"
-                },
-                {
-                    "@id": "./standard_operating_procedures/ARMS_MolecularSOPs_v1.0.docx"
-                },
-                {
-                    "@id": "./standard_operating_procedures/ARMS_MolecularSOPs_v1.0.pdf"
-                },
-                {
-                    "@id": "./standard_operating_procedures/Global_ARMS_protocols.zip"
-                }
-            ],
-            "description": "The folder containing the Standard Operating Procedures",
-            "downloadURL": "https://data.arms-mbon.org/documentation/latest/#./standard_operating_procedures/"
-        },
-        {
-            "@id": "./abs_advice/",
-            "@type": "Dataset",
-            "label": "./abs_advice/",
-            "hasPart": [
-                {
-                    "@id": "./abs_advice/ARMS_ABSHowTo_v1.0.docx"
-                },
-                {
-                    "@id": "./abs_advice/README.md"
-                },
-                {
-                    "@id": "./abs_advice/ARMS_ABSHowTo_v1.0.pdf"
-                }
-            ],
-            "description": "The folder contaning the Access and Benefit Sharing advice",
-            "downloadURL": "https://data.arms-mbon.org/documentation/latest/#./abs_advice/"
-        },
-        {
-            "@id": "./plutof_guide/",
-            "@type": "Dataset",
-            "label": "./plutof_guide/",
-            "hasPart": [
-                {
-                    "@id": "./plutof_guide/README.md"
-                },
-                {
-                    "@id": "./plutof_guide/How_to_manage_your_ARMS-MBON_data_and_metadata.pdf"
-                }
-            ]
         },
         {
             "@id": "./arms_in_tesseract/PEMA_parameters/",
@@ -209,14 +173,53 @@
                     "@id": "./arms_in_tesseract/PEMA_parameters/"
                 },
                 {
-                    "@id": "./arms_in_tesseract/README.md"
+                    "@id": "./arms_in_tesseract/replicates_list.csv"
                 },
                 {
-                    "@id": "./arms_in_tesseract/replicates_list.csv"
+                    "@id": "./arms_in_tesseract/README.md"
                 }
             ],
             "description": "The documentation for the ARMS workflow in the LifeWatch Tesseract",
             "downloadURL": "https://data.arms-mbon.org/documentation/latest/#./arms_in_tesseract/"
+        },
+        {
+            "@id": "./standard_operating_procedures/",
+            "@type": "Dataset",
+            "label": "./standard_operating_procedures/",
+            "hasPart": [
+                {
+                    "@id": "./standard_operating_procedures/ARMS_MolecularSOPs_v1.0.docx"
+                },
+                {
+                    "@id": "./standard_operating_procedures/README.md"
+                },
+                {
+                    "@id": "./standard_operating_procedures/Global_ARMS_protocols.zip"
+                },
+                {
+                    "@id": "./standard_operating_procedures/ARMS_MolecularSOPs_v1.0.pdf"
+                }
+            ],
+            "description": "The folder containing the Standard Operating Procedures",
+            "downloadURL": "https://data.arms-mbon.org/documentation/latest/#./standard_operating_procedures/"
+        },
+        {
+            "@id": "./abs_advice/",
+            "@type": "Dataset",
+            "label": "./abs_advice/",
+            "hasPart": [
+                {
+                    "@id": "./abs_advice/ARMS_ABSHowTo_v1.0.docx"
+                },
+                {
+                    "@id": "./abs_advice/ARMS_ABSHowTo_v1.0.pdf"
+                },
+                {
+                    "@id": "./abs_advice/README.md"
+                }
+            ],
+            "description": "The folder contaning the Access and Benefit Sharing advice",
+            "downloadURL": "https://data.arms-mbon.org/documentation/latest/#./abs_advice/"
         },
         {
             "@id": "./",
@@ -227,22 +230,22 @@
                     "@id": "./data_entry_templates/"
                 },
                 {
+                    "@id": "./plutof_guide/"
+                },
+                {
                     "@id": "./dmp/"
                 },
                 {
                     "@id": "./armsmbon_handbook/"
                 },
                 {
+                    "@id": "./arms_in_tesseract/"
+                },
+                {
                     "@id": "./standard_operating_procedures/"
                 },
                 {
                     "@id": "./abs_advice/"
-                },
-                {
-                    "@id": "./plutof_guide/"
-                },
-                {
-                    "@id": "./arms_in_tesseract/"
                 },
                 {
                     "@id": "./config.yml"
@@ -344,27 +347,12 @@
             "label": "_:VLIZ"
         },
         {
-            "@id": "./data_entry_templates/ARMS_SampleLabelPrintoutExample_2021-10-19.docx",
+            "@id": "./data_entry_templates/CreatingARMSIDs.xlsx",
             "@type": "File",
-            "label": "./data_entry_templates/ARMS_SampleLabelPrintoutExample_2021-10-19.docx",
-            "fileFormat": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-            "downloadURL": "https://data.arms-mbon.org/documentation/latest/#./data_entry_templates/ARMS_SampleLabelPrintoutExample_2021-10-19.docx",
-            "description": "Template for sample labels",
-            "startDate": "2021-10-19",
-            "endDate": "2022-08-01"
-        },
-        {
-            "@id": "./data_entry_templates/README.md",
-            "@type": "File",
-            "label": "./data_entry_templates/README.md"
-        },
-        {
-            "@id": "./data_entry_templates/ManualObservationsTemplate.csv",
-            "@type": "File",
-            "label": "./data_entry_templates/ManualObservationsTemplate.csv",
-            "fileFormat": "text/csv",
-            "downloadURL": "https://data.arms-mbon.org/documentation/latest/#./data_entry_templates/ManualObservationsTemplate.csv",
-            "description": "Template for describing manual observations which are then/uploaded to PlutoF",
+            "label": "./data_entry_templates/CreatingARMSIDs.xlsx",
+            "fileFormat": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "downloadURL": "https://data.arms-mbon.org/documentation/latest/#./data_entry_templates/CreatingARMSIDs.xlsx",
+            "description": "Template for creating ARMS IDs",
             "startDate": "2018-01-01",
             "endDate": "2022-12-31"
         },
@@ -380,6 +368,31 @@
             "endDate": "2022-08-01"
         },
         {
+            "@id": "./data_entry_templates/README.md",
+            "@type": "File",
+            "label": "./data_entry_templates/README.md"
+        },
+        {
+            "@id": "./data_entry_templates/ARMS_SampleLabelPrintoutExample_2021-10-19.docx",
+            "@type": "File",
+            "label": "./data_entry_templates/ARMS_SampleLabelPrintoutExample_2021-10-19.docx",
+            "fileFormat": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "downloadURL": "https://data.arms-mbon.org/documentation/latest/#./data_entry_templates/ARMS_SampleLabelPrintoutExample_2021-10-19.docx",
+            "description": "Template for sample labels",
+            "startDate": "2021-10-19",
+            "endDate": "2022-08-01"
+        },
+        {
+            "@id": "./data_entry_templates/ImagesDescriptionTemplate.csv",
+            "@type": "File",
+            "label": "./data_entry_templates/ImagesDescriptionTemplate.csv",
+            "fileFormat": "text/csv",
+            "downloadURL": "https://data.arms-mbon.org/documentation/latest/#./data_entry_templates/ImagesDescriptionTemplate.csv",
+            "description": "Template for describing and tagging images uploaded to PlutoF",
+            "startDate": "2018-01-01",
+            "endDate": "2022-12-31"
+        },
+        {
             "@id": "./data_entry_templates/ARMS_PlateLabelPrintoutExample.docx",
             "@type": "File",
             "label": "./data_entry_templates/ARMS_PlateLabelPrintoutExample.docx",
@@ -390,23 +403,12 @@
             "endDate": "2022-12-31"
         },
         {
-            "@id": "./data_entry_templates/CreatingARMSIDs.xlsx",
+            "@id": "./data_entry_templates/ARMS_SampleLabelPrintoutExample_2022-08-01.docx",
             "@type": "File",
-            "label": "./data_entry_templates/CreatingARMSIDs.xlsx",
-            "fileFormat": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-            "downloadURL": "https://data.arms-mbon.org/documentation/latest/#./data_entry_templates/CreatingARMSIDs.xlsx",
-            "description": "Template for creating ARMS IDs",
-            "startDate": "2018-01-01",
-            "endDate": "2022-12-31"
-        },
-        {
-            "@id": "./data_entry_templates/ARMS_MaterialTransferAgreement_2022-08-01.docx",
-            "@type": "File",
-            "label": "./data_entry_templates/ARMS_MaterialTransferAgreement_2022-08-01.docx",
+            "label": "./data_entry_templates/ARMS_SampleLabelPrintoutExample_2022-08-01.docx",
             "fileFormat": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-            "downloadURL": "https://data.arms-mbon.org/documentation/latest/#./data_entry_templates/ARMS_MaterialTransferAgreement_2022-08-01.docx",
-            "wasInfluencedBy": "https://www.embrc.eu/embrc-guides-abs",
-            "description": "Template material transfer agreement",
+            "downloadURL": "https://data.arms-mbon.org/documentation/latest/#./data_entry_templates/ARMS_SampleLabelPrintoutExample_2022-08-01.docx",
+            "description": "Template for sample labels",
             "startDate": "2020-08-01",
             "endDate": "2022-12-31"
         },
@@ -421,24 +423,35 @@
             "endDate": "2023-10-10"
         },
         {
-            "@id": "./data_entry_templates/ARMS_SampleLabelPrintoutExample_2022-08-01.docx",
+            "@id": "./data_entry_templates/ARMS_MaterialTransferAgreement_2022-08-01.docx",
             "@type": "File",
-            "label": "./data_entry_templates/ARMS_SampleLabelPrintoutExample_2022-08-01.docx",
+            "label": "./data_entry_templates/ARMS_MaterialTransferAgreement_2022-08-01.docx",
             "fileFormat": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-            "downloadURL": "https://data.arms-mbon.org/documentation/latest/#./data_entry_templates/ARMS_SampleLabelPrintoutExample_2022-08-01.docx",
-            "description": "Template for sample labels",
+            "downloadURL": "https://data.arms-mbon.org/documentation/latest/#./data_entry_templates/ARMS_MaterialTransferAgreement_2022-08-01.docx",
+            "wasInfluencedBy": "https://www.embrc.eu/embrc-guides-abs",
+            "description": "Template material transfer agreement",
             "startDate": "2020-08-01",
             "endDate": "2022-12-31"
         },
         {
-            "@id": "./data_entry_templates/ImagesDescriptionTemplate.csv",
+            "@id": "./data_entry_templates/ManualObservationsTemplate.csv",
             "@type": "File",
-            "label": "./data_entry_templates/ImagesDescriptionTemplate.csv",
+            "label": "./data_entry_templates/ManualObservationsTemplate.csv",
             "fileFormat": "text/csv",
-            "downloadURL": "https://data.arms-mbon.org/documentation/latest/#./data_entry_templates/ImagesDescriptionTemplate.csv",
-            "description": "Template for describing and tagging images uploaded to PlutoF",
+            "downloadURL": "https://data.arms-mbon.org/documentation/latest/#./data_entry_templates/ManualObservationsTemplate.csv",
+            "description": "Template for describing manual observations which are then/uploaded to PlutoF",
             "startDate": "2018-01-01",
             "endDate": "2022-12-31"
+        },
+        {
+            "@id": "./plutof_guide/How_to_manage_your_ARMS-MBON_data_and_metadata.pdf",
+            "@type": "File",
+            "label": "./plutof_guide/How_to_manage_your_ARMS-MBON_data_and_metadata.pdf"
+        },
+        {
+            "@id": "./plutof_guide/README.md",
+            "@type": "File",
+            "label": "./plutof_guide/README.md"
         },
         {
             "@id": "./dmp/EMBON-ARMS_DMP_v1.pdf",
@@ -456,24 +469,9 @@
             "label": "./dmp/ARMS_DMP_v1.0.pdf"
         },
         {
-            "@id": "./armsmbon_handbook/old/README.md",
-            "@type": "File",
-            "label": "./armsmbon_handbook/old/README.md"
-        },
-        {
             "@id": "./armsmbon_handbook/old/ARMS_Handbook_v3.1.pdf",
             "@type": "File",
             "label": "./armsmbon_handbook/old/ARMS_Handbook_v3.1.pdf"
-        },
-        {
-            "@id": "./armsmbon_handbook/old/ARMS_Handbook_v2.0.pdf",
-            "@type": "File",
-            "label": "./armsmbon_handbook/old/ARMS_Handbook_v2.0.pdf"
-        },
-        {
-            "@id": "./armsmbon_handbook/old/ARMS_Handbook_v3.0.pdf",
-            "@type": "File",
-            "label": "./armsmbon_handbook/old/ARMS_Handbook_v3.0.pdf"
         },
         {
             "@id": "./armsmbon_handbook/old/ARMS_Handbook_v1.docx",
@@ -481,14 +479,14 @@
             "label": "./armsmbon_handbook/old/ARMS_Handbook_v1.docx"
         },
         {
-            "@id": "./armsmbon_handbook/old/ARMS_Handbook_v1.pdf",
+            "@id": "./armsmbon_handbook/old/ARMS_Handbook_v3.0.pdf",
             "@type": "File",
-            "label": "./armsmbon_handbook/old/ARMS_Handbook_v1.pdf"
+            "label": "./armsmbon_handbook/old/ARMS_Handbook_v3.0.pdf"
         },
         {
-            "@id": "./armsmbon_handbook/old/ARMS_Handbook_v3.1.docx",
+            "@id": "./armsmbon_handbook/old/README.md",
             "@type": "File",
-            "label": "./armsmbon_handbook/old/ARMS_Handbook_v3.1.docx"
+            "label": "./armsmbon_handbook/old/README.md"
         },
         {
             "@id": "./armsmbon_handbook/old/ARMS_Handbook_v2.0.docx",
@@ -501,24 +499,24 @@
             "label": "./armsmbon_handbook/old/ARMS_Handbook_v3.0.docx"
         },
         {
-            "@id": "./armsmbon_handbook/README.md",
+            "@id": "./armsmbon_handbook/old/ARMS_Handbook_v2.0.pdf",
             "@type": "File",
-            "label": "./armsmbon_handbook/README.md"
+            "label": "./armsmbon_handbook/old/ARMS_Handbook_v2.0.pdf"
         },
         {
-            "@id": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v2.docx",
+            "@id": "./armsmbon_handbook/old/ARMS_Handbook_v3.1.docx",
             "@type": "File",
-            "label": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v2.docx"
+            "label": "./armsmbon_handbook/old/ARMS_Handbook_v3.1.docx"
         },
         {
-            "@id": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v1.pdf",
+            "@id": "./armsmbon_handbook/old/ARMS_Handbook_v1.pdf",
             "@type": "File",
-            "label": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v1.pdf"
+            "label": "./armsmbon_handbook/old/ARMS_Handbook_v1.pdf"
         },
         {
-            "@id": "./armsmbon_handbook/EMO_BON_metadata_instructions.pdf",
+            "@id": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v3.pdf.pdf",
             "@type": "File",
-            "label": "./armsmbon_handbook/EMO_BON_metadata_instructions.pdf"
+            "label": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v3.pdf.pdf"
         },
         {
             "@id": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v1.docx",
@@ -532,9 +530,9 @@
             "endDate": "2023-10-10"
         },
         {
-            "@id": "./armsmbon_handbook/EMO_BON_metadata_instructions.docx",
+            "@id": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v2.docx",
             "@type": "File",
-            "label": "./armsmbon_handbook/EMO_BON_metadata_instructions.docx"
+            "label": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v2.docx"
         },
         {
             "@id": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v2.pdf",
@@ -542,14 +540,44 @@
             "label": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v2.pdf"
         },
         {
-            "@id": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v3.pdf.pdf",
+            "@id": "./armsmbon_handbook/EMO_BON_metadata_instructions.docx",
             "@type": "File",
-            "label": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v3.pdf.pdf"
+            "label": "./armsmbon_handbook/EMO_BON_metadata_instructions.docx"
         },
         {
-            "@id": "./standard_operating_procedures/README.md",
+            "@id": "./armsmbon_handbook/README.md",
             "@type": "File",
-            "label": "./standard_operating_procedures/README.md"
+            "label": "./armsmbon_handbook/README.md"
+        },
+        {
+            "@id": "./armsmbon_handbook/EMO_BON_metadata_instructions.pdf",
+            "@type": "File",
+            "label": "./armsmbon_handbook/EMO_BON_metadata_instructions.pdf"
+        },
+        {
+            "@id": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v3.pdf",
+            "@type": "File",
+            "label": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v3.pdf"
+        },
+        {
+            "@id": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v1.pdf",
+            "@type": "File",
+            "label": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v1.pdf"
+        },
+        {
+            "@id": "./arms_in_tesseract/PEMA_parameters/READme.md",
+            "@type": "File",
+            "label": "./arms_in_tesseract/PEMA_parameters/READme.md"
+        },
+        {
+            "@id": "./arms_in_tesseract/replicates_list.csv",
+            "@type": "File",
+            "label": "./arms_in_tesseract/replicates_list.csv"
+        },
+        {
+            "@id": "./arms_in_tesseract/README.md",
+            "@type": "File",
+            "label": "./arms_in_tesseract/README.md"
         },
         {
             "@id": "./standard_operating_procedures/ARMS_MolecularSOPs_v1.0.docx",
@@ -562,6 +590,16 @@
             "endDate": "2022-12-31"
         },
         {
+            "@id": "./standard_operating_procedures/README.md",
+            "@type": "File",
+            "label": "./standard_operating_procedures/README.md"
+        },
+        {
+            "@id": "./standard_operating_procedures/Global_ARMS_protocols.zip",
+            "@type": "File",
+            "label": "./standard_operating_procedures/Global_ARMS_protocols.zip"
+        },
+        {
             "@id": "./standard_operating_procedures/ARMS_MolecularSOPs_v1.0.pdf",
             "@type": "File",
             "label": "./standard_operating_procedures/ARMS_MolecularSOPs_v1.0.pdf",
@@ -570,11 +608,6 @@
             "description": "The molecular standard operating procedures for the ARMS-MBON project",
             "startDate": "2018-01-01",
             "endDate": "2022-12-31"
-        },
-        {
-            "@id": "./standard_operating_procedures/Global_ARMS_protocols.zip",
-            "@type": "File",
-            "label": "./standard_operating_procedures/Global_ARMS_protocols.zip"
         },
         {
             "@id": "./abs_advice/ARMS_ABSHowTo_v1.0.docx",
@@ -586,39 +619,14 @@
             "description": "ARMS-MBON ABS advice"
         },
         {
-            "@id": "./abs_advice/README.md",
-            "@type": "File",
-            "label": "./abs_advice/README.md"
-        },
-        {
             "@id": "./abs_advice/ARMS_ABSHowTo_v1.0.pdf",
             "@type": "File",
             "label": "./abs_advice/ARMS_ABSHowTo_v1.0.pdf"
         },
         {
-            "@id": "./plutof_guide/README.md",
+            "@id": "./abs_advice/README.md",
             "@type": "File",
-            "label": "./plutof_guide/README.md"
-        },
-        {
-            "@id": "./plutof_guide/How_to_manage_your_ARMS-MBON_data_and_metadata.pdf",
-            "@type": "File",
-            "label": "./plutof_guide/How_to_manage_your_ARMS-MBON_data_and_metadata.pdf"
-        },
-        {
-            "@id": "./arms_in_tesseract/PEMA_parameters/READme.md",
-            "@type": "File",
-            "label": "./arms_in_tesseract/PEMA_parameters/READme.md"
-        },
-        {
-            "@id": "./arms_in_tesseract/README.md",
-            "@type": "File",
-            "label": "./arms_in_tesseract/README.md"
-        },
-        {
-            "@id": "./arms_in_tesseract/replicates_list.csv",
-            "@type": "File",
-            "label": "./arms_in_tesseract/replicates_list.csv"
+            "label": "./abs_advice/README.md"
         },
         {
             "@id": "./config.yml",
