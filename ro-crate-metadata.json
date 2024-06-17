@@ -124,9 +124,6 @@
                     "@id": "./armsmbon_handbook/old/"
                 },
                 {
-                    "@id": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v3.pdf.pdf"
-                },
-                {
                     "@id": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v1.docx"
                 },
                 {
@@ -512,11 +509,6 @@
             "@id": "./armsmbon_handbook/old/ARMS_Handbook_v1.pdf",
             "@type": "File",
             "label": "./armsmbon_handbook/old/ARMS_Handbook_v1.pdf"
-        },
-        {
-            "@id": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v3.pdf.pdf",
-            "@type": "File",
-            "label": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v3.pdf.pdf"
         },
         {
             "@id": "./armsmbon_handbook/EMOBON-ARMS_Handbook_v1.docx",
