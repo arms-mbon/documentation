@@ -2,7 +2,7 @@
     "./":{
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "title": "documentation",
-        "wasAccosiatedWith":[
+        "wasAssociatedWith":[
             {"@id":"_:MatthiasObst"},
             {"@id":"_:KatrinaExter"},
             {"@id":"_:ChristinaPavloudi"}
