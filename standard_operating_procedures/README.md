@@ -1,5 +1,11 @@
-This directory contains the following SOP documentation <br>
-- The ARMS Molecular SOPs. The ARMS-MBON data that were taken during the ASSEMBLE Plus years of the projects, that is from 2018 until the summer of 2022, were processed with these SOPs. From 2022 onwards, ARMS-MBON became part of [EMO BON](https://www.embrc.eu/emo-bon) and the SOPs followed for the molecular (sequencing) work will be those of EMO BON. 
-- The Smithsonian Global ARMS standard operating procedures (SOPs) in a zip file (taken from [here](https://naturalhistory.si.edu/research/global-arms-program)). These cover all aspects of ARMS work - from constructing the units to processing them upon retrieval - and are valid for all ARMS-MBON samples and data, whether from before or after joining EMO BON. Note that some additions to these SOPs are given in the [ARMS-MBON Handbook](https://github.com/arms-mbon/documentation/tree/main/armsmbon_handbook). 
+This directory contains documentation for historical reference related to the ARMS-MBON project. As of 2024, the EMO BON Handbook serves as the primary reference for all molecular (sequencing) work and standard operating procedures (SOPs). The SOPs in this repository, including those developed by the Smithsonian and ARMS-MBON, are no longer in active use but remain available for archival purposes. <br>
 
-The SOPs followed by ARMS-MBON are those Smithsonian ones, with some exceptions as outlined in the [Handbook](https://github.com/arms-mbon/documentation/tree/main/armsmbon_handbook). 
+- ARMS Molecular SOPs (Historical)
+The ARMS Molecular SOPs were applied to data collected from 2018 to summer 2022, during the ASSEMBLE Plus years of the projects. Some additional details and modifications to these SOPs are provided in the ARMS-MBON Handbook. These SOPs are no longer followed as of 2022.
+
+-Smithsonian Global ARMS SOPs
+This zip file contains the Smithsonian Global ARMS standard operating procedures (taken from [here](https://naturalhistory.si.edu/research/global-arms-program)), which cover all aspects of ARMS work – from constructing units to processing them upon retrieval. These SOPs were valid for ARMS-MBON samples and data collected prior to mid-2022 during the ASSEMBLE Plus project years. Although superseded, these documents provide foundational context and are included here for historical reference. 
+
+The documents in this repository, including the Smithsonian Global ARMS SOPs and ARMS-MBON Molecular SOPs, are archival materials and should only be used for historical reference.
+
+The [ARMS Handbook](https://github.com/arms-mbon/documentation/tree/main/armsmbon_handbook) and [EMO BON Handbook](https://www.embrc.eu/newsroom/publications/emo-bon-handbook-2024) are inspired from the Smithsonian Global ARMS SOPs. From 2022 onwards, ARMS-MBON became part of [EMO BON](https://www.embrc.eu/emo-bon) and the SOPs followed for the molecular (sequencing) work will be those of EMO BON.  For current work, refer exclusively to the [EMO BON Handbook](https://www.embrc.eu/newsroom/publications/emo-bon-handbook-2024), which outlines all valid procedures, including the new MSOP.
