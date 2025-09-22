@@ -4,7 +4,7 @@ This directory contains documentation for historical reference related to the AR
 The ARMS Molecular SOPs were applied to data collected from 2018 to summer 2022, during the ASSEMBLE Plus years of the projects. Some additional details and modifications to these SOPs are provided in the ARMS-MBON Handbook. These SOPs are no longer followed as of 2022.
 
 - Smithsonian Global ARMS SOPs<br>
-This zip file contains the Smithsonian Global ARMS standard operating procedures (taken from [here](https://naturalhistory.si.edu/research/global-arms-program)), which cover all aspects of ARMS work – from constructing units to processing them upon retrieval. These SOPs were valid for ARMS-MBON samples and data collected prior to mid-2022 during the ASSEMBLE Plus project years. Although superseded, these documents provide foundational context and are included here for historical reference. 
+This zip file contains the Smithsonian Global ARMS standard operating procedures (taken from [here](https://naturalhistory.si.edu/research/global-arms-program)), which cover all aspects of ARMS work – from constructing units to processing them upon retrieval. These SOPs were valid for ARMS-MBON samples and data collected prior to mid-2022 during the ASSEMBLE Plus project years. Although superseded, these documents provide foundational context and are included here for historical reference. For the latest Global ARMS protocols see [their webpage](https://naturalhistory.si.edu/research/global-arms-program/protocols)
 
 The documents in this repository, including the Smithsonian Global ARMS SOPs and ARMS-MBON Molecular SOPs, are archival materials and should only be used for historical reference.
 
